@@ -1,8 +1,5 @@
 # VBA-challenge
-UCSD Data Science and Visualization Bootcamp - VBA HW  2 Dec 2020
 
-
-This repository contains files pertaining to the VBA Homework due 2 Dec 2020.
 
 ' This subroutine loops through all worksheets in a workbook of stock data to calculate the yearly change,
 ' percent change and total volume traded for each ticker symbol found.  One row of output is generated per

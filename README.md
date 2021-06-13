@@ -1,4 +1,4 @@
-# VBA-challenge
+# VBA-Stock-Analysis
 
 
 ' This subroutine loops through all worksheets in a workbook of stock data to calculate the yearly change,
